@@ -1,0 +1,2 @@
+C:\Users\328-2\Desktop\Shengals_Roman_PR33\Shengals_Roman_PR_33_zd_1\obj\Debug\Shengals_Roman_PR_33_zd_1.csproj.AssemblyReference.cache
+C:\Users\328-2\Desktop\Shengals_Roman_PR33\Shengals_Roman_PR_33_zd_1\obj\Debug\Shengals_Roman_PR_33_zd_1.csproj.CoreCompileInputs.cache
